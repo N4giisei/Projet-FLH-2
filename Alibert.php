@@ -30,7 +30,7 @@
 
     .contenu p {
         text-align: center;
-        margin-top: 50px;
+        margin-top: 35px;
         font-family: 'Lobster' , sans-serif;
         font-size: 25px;
         color: #903C3E;
