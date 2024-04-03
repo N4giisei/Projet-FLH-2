@@ -132,6 +132,7 @@
         <label for="type_logement">Type de logement </label>
         <select id="type_logement" name="type_logement" required>
             <option value="appartement">Appartement</option>
+            <option value="maison">Studio</option>
             <option value="maison">T2</option>
             <option value="studio">T3</option>
             <option value="studio">T4</option>

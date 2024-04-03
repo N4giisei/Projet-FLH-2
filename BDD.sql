@@ -8,6 +8,16 @@ CanapeLit varchar (3),
 LitBebe varchar (3),
 Exterieur varchar (3) );
 
+
+Create Table Devis (
+Id int primary key not null,
+Nom varchar (25),
+Prenom varchar (25),
+numTel int,
+mail varchar(50)
+);
+
+
 Insert into Airbnb Values 
 (1, "Alibert", 10, 5, 6, "non", "non", "oui"),
 (2, "Cazilhac", 7, 4, 3, "oui", "non", "oui"),
