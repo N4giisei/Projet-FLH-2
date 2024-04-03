@@ -148,22 +148,22 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie isly/piscine.png" alt="Piscine" class="active">
-            <img src="galerie isly/canape.png" alt="Canape">
-            <img src="galerie isly/table.png" alt="Table">
-            <img src="galerie isly/cuisine.png" alt="Cuisine">
-            <img src="galerie isly/chambre.png" alt="Chambre lit double">
-            <img src="galerie isly/chambre verte.png" alt="Chambre lit double">
-            <img src="galerie isly/chambre doree.png" alt="Chambre lit double">
-            <img src="galerie isly/chambre doree2.png" alt="Chambre lit double">
-            <img src="galerie isly/chambre twin.png" alt="Chambre deux lit simple">
-            <img src="galerie isly/sdb.png" alt="Salle de bain">
-            <img src="galerie isly/sdb 2.png" alt="Salle de bain">
-            <img src="galerie isly/petit dej.png" alt="Exterieur">
-            <img src="galerie isly/piscine 2.png" alt="Piscine">
-            <img src="galerie isly/piscine 3.png" alt="Piscine">
-            <img src="galerie isly/exterieur.png" alt="Exterieur">
-            <img src="galerie isly/table exterieur.png" alt="Table exterieur">
+            <img src="Galerie/galerie isly/piscine.png" alt="Piscine" class="active">
+            <img src="Galerie/galerie isly/canape.png" alt="Canape">
+            <img src="Galerie/galerie isly/table.png" alt="Table">
+            <img src="Galerie/galerie isly/cuisine.png" alt="Cuisine">
+            <img src="Galerie/galerie isly/chambre.png" alt="Chambre lit double">
+            <img src="Galerie/galerie isly/chambre verte.png" alt="Chambre lit double">
+            <img src="Galerie/galerie isly/chambre doree.png" alt="Chambre lit double">
+            <img src="Galerie/galerie isly/chambre doree2.png" alt="Chambre lit double">
+            <img src="Galerie/galerie isly/chambre twin.png" alt="Chambre deux lit simple">
+            <img src="Galerie/galerie isly/sdb.png" alt="Salle de bain">
+            <img src="Galerie/galerie isly/sdb 2.png" alt="Salle de bain">
+            <img src="Galerie/galerie isly/petit dej.png" alt="Exterieur">
+            <img src="Galerie/galerie isly/piscine 2.png" alt="Piscine">
+            <img src="Galerie/galerie isly/piscine 3.png" alt="Piscine">
+            <img src="Galerie/galerie isly/exterieur.png" alt="Exterieur">
+            <img src="Galerie/galerie isly/table exterieur.png" alt="Table exterieur">
           </div>
   
           <div class="slideshow-nav">

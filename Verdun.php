@@ -148,15 +148,15 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie verdun /salon.png" alt="salon" class="active">
-            <img src="galerie verdun /cuisine.png" alt="cuisine">
-            <img src="galerie verdun /cuisine 2.png" alt="cuisine">
-            <img src="galerie verdun /lave-linge.png" alt="cuisine"> 
-            <img src="galerie verdun /tele.png" alt="salon">
-            <img src="galerie verdun /canape lit.png" alt="canape lit">
-            <img src="galerie verdun /chambre.png" alt="chambre">
-            <img src="galerie verdun /lit.png" alt="chambre">
-            <img src="galerie verdun /sdb.png" alt="salle de bain">
+            <img src="Galerie/galerie verdun /salon.png" alt="salon" class="active">
+            <img src="Galerie/galerie verdun /cuisine.png" alt="cuisine">
+            <img src="Galerie/galerie verdun /cuisine 2.png" alt="cuisine">
+            <img src="Galerie/galerie verdun /lave-linge.png" alt="cuisine"> 
+            <img src="Galerie/galerie verdun /tele.png" alt="salon">
+            <img src="Galerie/galerie verdun /canape lit.png" alt="canape lit">
+            <img src="Galerie/galerie verdun /chambre.png" alt="chambre">
+            <img src="Galerie/galerie verdun /lit.png" alt="chambre">
+            <img src="Galerie/galerie verdun /sdb.png" alt="salle de bain">
           </div>
   
           <div class="slideshow-nav">

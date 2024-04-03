@@ -148,18 +148,18 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie green/vue d'ensemble.png" alt="vue d'ensemble" class="active">
-            <img src="galerie green/canape.png" alt="canape">
-            <img src="galerie green/vue canape.png" alt="vue depuis le canape">
-            <img src="galerie green/table.png" alt="table">
-            <img src="galerie green/ensemble.png" alt="ensemble">
-            <img src="galerie green/lit.png" alt="lit">
-            <img src="galerie green/cuisine.png" alt="cuisine">
-            <img src="galerie green/cuisine 2.png" alt="cuisine">
-            <img src="galerie green/cafetiere.png" alt="equipement cuisine">
-            <img src="galerie green/sdb.png" alt="salle de bain">
-            <img src="galerie green/sdb 2.png" alt="salle de bain">
-            <img src="galerie green/vue.png" alt="vue">
+            <img src="Galerie/galerie green/vue d'ensemble.png" alt="vue d'ensemble" class="active">
+            <img src="Galerie/galerie green/canape.png" alt="canape">
+            <img src="Galerie/galerie green/vue canape.png" alt="vue depuis le canape">
+            <img src="Galerie/galerie green/table.png" alt="table">
+            <img src="Galerie/galerie green/ensemble.png" alt="ensemble">
+            <img src="Galerie/galerie green/lit.png" alt="lit">
+            <img src="Galerie/galerie green/cuisine.png" alt="cuisine">
+            <img src="Galerie/galerie green/cuisine 2.png" alt="cuisine">
+            <img src="Galerie/galerie green/cafetiere.png" alt="equipement cuisine">
+            <img src="Galerie/galerie green/sdb.png" alt="salle de bain">
+            <img src="Galerie/galerie green/sdb 2.png" alt="salle de bain">
+            <img src="Galerie/galerie green/vue.png" alt="vue">
           </div>
   
           <div class="slideshow-nav">

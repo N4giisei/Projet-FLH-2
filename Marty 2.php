@@ -148,16 +148,16 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie marty 2/salon.png" alt="salon" class="active">
-            <img src="galerie marty 2/canape.png" alt="canape">
-            <img src="galerie marty 2/cuisine.png" alt="cuisine">
-            <img src="galerie marty 2/table.png" alt="table">
-            <img src="galerie marty 2/chambre.png" alt="chambre">
-            <img src="galerie marty 2/chambre 4.png" alt="chambre">
-            <img src="galerie marty 2/chambre 3.png" alt="chambre">
-            <img src="galerie marty 2/chambre 2.png" alt="chambre">
-            <img src="galerie marty 2/sdb.png" alt="salle de bain">
-            <img src="galerie marty 2/exterieur.png" alt="exterieur">
+            <img src="Galerie/galerie marty 2/salon.png" alt="salon" class="active">
+            <img src="Galerie/galerie marty 2/canape.png" alt="canape">
+            <img src="Galerie/galerie marty 2/cuisine.png" alt="cuisine">
+            <img src="Galerie/galerie marty 2/table.png" alt="table">
+            <img src="Galerie/galerie marty 2/chambre.png" alt="chambre">
+            <img src="Galerie/galerie marty 2/chambre 4.png" alt="chambre">
+            <img src="Galerie/galerie marty 2/chambre 3.png" alt="chambre">
+            <img src="Galerie/galerie marty 2/chambre 2.png" alt="chambre">
+            <img src="Galerie/galerie marty 2/sdb.png" alt="salle de bain">
+            <img src="Galerie/galerie marty 2/exterieur.png" alt="exterieur">
           </div>
   
           <div class="slideshow-nav">

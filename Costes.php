@@ -148,21 +148,21 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie costes/salon.png" alt="salon" class="active">
-            <img src="galerie costes/canape.png" alt="canape">
-            <img src="galerie costes/table.png" alt="table">
-            <img src="galerie costes/télé.png" alt="télévision">
-            <img src="galerie costes/table basse .png" alt="table basse">
-            <img src="galerie costes/cuisine.png" alt="cuisine">
-            <img src="galerie costes/table cuisine.png" alt="table cuisine">
-            <img src="galerie costes/couloir.png" alt="couloir">
-            <img src="galerie costes/couloir 2.png" alt="couloir">
-            <img src="galerie costes/bureau.png" alt="bureau">
-            <img src="galerie costes/chambre.png" alt="chambre">
-            <img src="galerie costes/lit.png" alt="lit">
-            <img src="galerie costes/chmabre 2.png" alt="chambre 2">
-            <img src="galerie costes/lit 2.png" alt="lit 2">
-            <img src="galerie costes/sdb.png" alt="salle de bain">
+            <img src="Galerie/galerie costes/salon.png" alt="salon" class="active">
+            <img src="Galerie/galerie costes/canape.png" alt="canape">
+            <img src="Galerie/galerie costes/table.png" alt="table">
+            <img src="Galerie/galerie costes/télé.png" alt="télévision">
+            <img src="Galerie/galerie costes/table basse .png" alt="table basse">
+            <img src="Galerie/galerie costes/cuisine.png" alt="cuisine">
+            <img src="Galerie/galerie costes/table cuisine.png" alt="table cuisine">
+            <img src="Galerie/galerie costes/couloir.png" alt="couloir">
+            <img src="Galerie/galerie costes/couloir 2.png" alt="couloir">
+            <img src="Galerie/galerie costes/bureau.png" alt="bureau">
+            <img src="Galerie/galerie costes/chambre.png" alt="chambre">
+            <img src="Galerie/galerie costes/lit.png" alt="lit">
+            <img src="Galerie/galerie costes/chmabre 2.png" alt="chambre 2">
+            <img src="Galerie/galerie costes/lit 2.png" alt="lit 2">
+            <img src="Galerie/galerie costes/sdb.png" alt="salle de bain">
           </div>
   
           <div class="slideshow-nav">
