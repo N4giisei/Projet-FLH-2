@@ -100,7 +100,7 @@
 
 <h1> Devis personnalisé </h1>
 
-    <form>
+    <form action="envoi_email.php" method="post">
         <label for="nom">Nom </label>
         <input type="text" id="nom" name="nom" required>
 
