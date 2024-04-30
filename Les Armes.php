@@ -148,21 +148,21 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie arme/salon.png" alt="canape" class="active">
-            <img src="galerie arme/table basse.png" alt="photo salon 1">
-            <img src="galerie arme/cuisine.png" alt="photo salon 1">
-            <img src="galerie arme/table.png" alt="cuisine">
-            <img src="galerie arme/table 2.png" alt="table">
-            <img src="galerie arme/chambre parent.png" alt="chambre 1">
-            <img src="galerie arme/chambre parent 2.png" alt="salle de bain chambre 1">
-            <img src="galerie arme/table de chevet.png" alt="chambre 2">
-            <img src="galerie arme/chambre enfant.png" alt="salle de bain chambre 2">
-            <img src="galerie arme/chambre enfant 2.png" alt="salle de bain chambre 2">
-            <img src="galerie arme/armoire chambre enfant.png" alt="salle de bain chambre 2">
-            <img src="galerie arme/porte cintre.png" alt="salle de bain chambre 2">
-            <img src="galerie arme/sdb.png" alt="salle de bain chambre 2">
-            <img src="galerie arme/lavabo.png" alt="salle de bain chambre 2">
-            <img src="galerie arme/mirroir.png" alt="salle de bain chambre 2">
+            <img src="Galerie/galerie arme/salon.png" alt="canape" class="active">
+            <img src="Galerie/galerie arme/table basse.png" alt="photo salon 1">
+            <img src="Galerie/galerie arme/cuisine.png" alt="photo salon 1">
+            <img src="Galerie/galerie arme/table.png" alt="cuisine">
+            <img src="Galerie/galerie arme/table 2.png" alt="table">
+            <img src="Galerie/galerie arme/chambre parent.png" alt="chambre 1">
+            <img src="Galerie/galerie arme/chambre parent 2.png" alt="salle de bain chambre 1">
+            <img src="Galerie/galerie arme/table de chevet.png" alt="chambre 2">
+            <img src="Galerie/galerie arme/chambre enfant.png" alt="salle de bain chambre 2">
+            <img src="Galerie/galerie arme/chambre enfant 2.png" alt="salle de bain chambre 2">
+            <img src="Galerie/galerie arme/armoire chambre enfant.png" alt="salle de bain chambre 2">
+            <img src="Galerie/galerie arme/porte cintre.png" alt="salle de bain chambre 2">
+            <img src="Galerie/galerie arme/sdb.png" alt="salle de bain chambre 2">
+            <img src="Galerie/galerie arme/lavabo.png" alt="salle de bain chambre 2">
+            <img src="Galerie/galerie arme/mirroir.png" alt="salle de bain chambre 2">
           </div>
   
           <div class="slideshow-nav">

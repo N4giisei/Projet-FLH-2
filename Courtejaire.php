@@ -148,16 +148,16 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie courtejaire/salon.png" alt="salon" class="active">
-            <img src="galerie courtejaire/canape.png" alt="canape">
-            <img src="galerie courtejaire/tele.png" alt="télévision">
-            <img src="galerie courtejaire/cuisine.png" alt="cuisine">
-            <img src="galerie courtejaire/coin petit dej.png" alt="cuisine">
-            <img src="galerie courtejaire/chambre.png" alt="chambre">
-            <img src="galerie courtejaire/canape lit.png" alt="canape">
-            <img src="galerie courtejaire/sdb.png" alt="salle de bain">
-            <img src="galerie courtejaire/tranzat.png" alt="terasse">
-            <img src="galerie courtejaire/table exterieur.png" alt="terasse">
+            <img src="Galerie/galerie courtejaire/salon.png" alt="salon" class="active">
+            <img src="Galerie/galerie courtejaire/canape.png" alt="canape">
+            <img src="Galerie/galerie courtejaire/tele.png" alt="télévision">
+            <img src="Galerie/galerie courtejaire/cuisine.png" alt="cuisine">
+            <img src="Galerie/galerie courtejaire/coin petit dej.png" alt="cuisine">
+            <img src="Galerie/galerie courtejaire/chambre.png" alt="chambre">
+            <img src="Galerie/galerie courtejaire/canape lit.png" alt="canape">
+            <img src="Galerie/galerie courtejaire/sdb.png" alt="salle de bain">
+            <img src="Galerie/galerie courtejaire/tranzat.png" alt="terasse">
+            <img src="Galerie/galerie courtejaire/table exterieur.png" alt="terasse">
           </div>
   
           <div class="slideshow-nav">

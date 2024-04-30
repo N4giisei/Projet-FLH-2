@@ -148,17 +148,17 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie trivalle/lit.png" alt="lit" class="active">
-            <img src="galerie trivalle/salon.png" alt="salon">
-            <img src="galerie trivalle/ensemble.png" alt="photo d'ensemble">
-            <img src="galerie trivalle/télé.png" alt="télévision">
-            <img src="galerie trivalle/lit 2.png" alt="lit">
-            <img src="galerie trivalle/mirroir.png" alt="mirroir">
-            <img src="galerie trivalle/sdb.png" alt="salle de bain">
-            <img src="galerie trivalle/cuisine.png" alt="cuisine">
-            <img src="galerie trivalle/cuisine 2.png" alt="cuisine">
-            <img src="galerie trivalle/table.png" alt="table">
-            <img src="galerie trivalle/table 2.png" alt="table 2">
+            <img src="Galerie/galerie trivalle/lit.png" alt="lit" class="active">
+            <img src="Galerie/galerie trivalle/salon.png" alt="salon">
+            <img src="Galerie/galerie trivalle/ensemble.png" alt="photo d'ensemble">
+            <img src="Galerie/galerie trivalle/télé.png" alt="télévision">
+            <img src="Galerie/galerie trivalle/lit 2.png" alt="lit">
+            <img src="Galerie/galerie trivalle/mirroir.png" alt="mirroir">
+            <img src="Galerie/galerie trivalle/sdb.png" alt="salle de bain">
+            <img src="Galerie/galerie trivalle/cuisine.png" alt="cuisine">
+            <img src="Galerie/galerie trivalle/cuisine 2.png" alt="cuisine">
+            <img src="Galerie/galerie trivalle/table.png" alt="table">
+            <img src="Galerie/galerie trivalle/table 2.png" alt="table 2">
           </div>
   
           <div class="slideshow-nav">

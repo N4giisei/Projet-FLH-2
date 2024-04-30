@@ -30,7 +30,7 @@
 
     .contenu p {
         text-align: center;
-        margin-top: 50px;
+        margin-top: 35px;
         font-family: 'Lobster' , sans-serif;
         font-size: 25px;
         color: #903C3E;
@@ -148,36 +148,36 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie alibert/allee.png" alt="allée" class="active">
-            <img src="galerie alibert/maison.png" alt="maison">
-            <img src="galerie alibert/salon.png" alt="salon">
-            <img src="galerie alibert/salon 2.png" alt="salon">
-            <img src="galerie alibert/salon 3.png" alt="salon">
-            <img src="galerie alibert/cuisine.png" alt="cuisine">
-            <img src="galerie alibert/cuisine 2.png" alt="cuisine">
-            <img src="galerie alibert/table .png" alt="table">
-            <img src="galerie alibert/table 2.png" alt="table">
-            <img src="galerie alibert/tele.png" alt="télévision">
-            <img src="galerie alibert/chambre 1.png" alt="chambre">
-            <img src="galerie alibert/chambre 1.2.png" alt="chambre">
-            <img src="galerie alibert/chambre 1.3.png" alt="chambre">
-            <img src="galerie alibert/chambre 2.png" alt="chambre">
-            <img src="galerie alibert/chambre 2.2.png" alt="chambre">
-            <img src="galerie alibert/chambre 3.png" alt="chambre">
-            <img src="galerie alibert/chambre 3.2.png" alt="chambre">
-            <img src="galerie alibert/chambre 3.3.png" alt="chambre">
-            <img src="galerie alibert/chambre 4.png" alt="chambre">
-            <img src="galerie alibert/chambre 4.2.png" alt="chambre">
-            <img src="galerie alibert/sdb.png" alt="salle de bain">
-            <img src="galerie alibert/sdb 2.png" alt="salle de bain">
-            <img src="galerie alibert/douche.png" alt="salle de bain">
-            <img src="galerie alibert/douche 2.png" alt="salle de bain">
-            <img src="galerie alibert/table exterieur.png" alt="exterieur">
-            <img src="galerie alibert/exterieur.png" alt="exterieur">
-            <img src="galerie alibert/table exterieur.png" alt="exterieur">
-            <img src="galerie alibert/jacuzzi.png" alt="jacuzzi">
-            <img src="galerie alibert/jacuzzi 2.png" alt="jacuzzi">
-            <img src="galerie alibert/maison jouet.png" alt="exterieur">
+            <img src="Galerie/galerie alibert/allee.png" alt="allée" class="active">
+            <img src="Galerie/galerie alibert/maison.png" alt="maison">
+            <img src="Galerie/galerie alibert/salon.png" alt="salon">
+            <img src="Galerie/galerie alibert/salon 2.png" alt="salon">
+            <img src="Galerie/galerie alibert/salon 3.png" alt="salon">
+            <img src="Galerie/galerie alibert/cuisine.png" alt="cuisine">
+            <img src="Galerie/galerie alibert/cuisine 2.png" alt="cuisine">
+            <img src="Galerie/galerie alibert/table .png" alt="table">
+            <img src="Galerie/galerie alibert/table 2.png" alt="table">
+            <img src="Galerie/galerie alibert/tele.png" alt="télévision">
+            <img src="Galerie/galerie alibert/chambre 1.png" alt="chambre">
+            <img src="Galerie/galerie alibert/chambre 1.2.png" alt="chambre">
+            <img src="Galerie/galerie alibert/chambre 1.3.png" alt="chambre">
+            <img src="Galerie/galerie alibert/chambre 2.png" alt="chambre">
+            <img src="Galerie/galerie alibert/chambre 2.2.png" alt="chambre">
+            <img src="Galerie/galerie alibert/chambre 3.png" alt="chambre">
+            <img src="Galerie/galerie alibert/chambre 3.2.png" alt="chambre">
+            <img src="Galerie/galerie alibert/chambre 3.3.png" alt="chambre">
+            <img src="Galerie/galerie alibert/chambre 4.png" alt="chambre">
+            <img src="Galerie/galerie alibert/chambre 4.2.png" alt="chambre">
+            <img src="Galerie/galerie alibert/sdb.png" alt="salle de bain">
+            <img src="Galerie/galerie alibert/sdb 2.png" alt="salle de bain">
+            <img src="Galerie/galerie alibert/douche.png" alt="salle de bain">
+            <img src="Galerie/galerie alibert/douche 2.png" alt="salle de bain">
+            <img src="Galerie/galerie alibert/table exterieur.png" alt="exterieur">
+            <img src="Galerie/galerie alibert/exterieur.png" alt="exterieur">
+            <img src="Galerie/galerie alibert/table exterieur.png" alt="exterieur">
+            <img src="Galerie/galerie alibert/jacuzzi.png" alt="jacuzzi">
+            <img src="Galerie/galerie alibert/jacuzzi 2.png" alt="jacuzzi">
+            <img src="Galerie/galerie alibert/maison jouet.png" alt="exterieur">
           </div>
   
           <div class="slideshow-nav">

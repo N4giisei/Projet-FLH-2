@@ -148,28 +148,28 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie palaja/salon.png" alt="salon" class="active">
-            <img src="galerie palaja/table.png" alt="cuisine">
-            <img src="galerie palaja/table 2.png" alt="cuisine">
-            <img src="galerie palaja/cuisine.png" alt="cuisine">
-            <img src="galerie palaja/comptoir.png" alt="cuisine">
-            <img src="galerie palaja/entree.png" alt="entrée">
-            <img src="galerie palaja/chambre 1.png" alt="chambre">
-            <img src="galerie palaja/chambre 2.png" alt="chambre">
-            <img src="galerie palaja/chambre 3.png" alt="chambre">
-            <img src="galerie palaja/chambre 4.png" alt="chambre">
-            <img src="galerie palaja/chambre 5.png" alt="chambre">
-            <img src="galerie palaja/chambre canap lit.png" alt="chambre">
-            <img src="galerie palaja/sdb.png" alt="salle de bain">
-            <img src="galerie palaja/sdb 2.png" alt="salle de bain">
-            <img src="galerie palaja/exterieur.png" alt="exterieur">
-            <img src="galerie palaja/petit dej.png" alt="exterieur">
-            <img src="galerie palaja/table exterieur.png" alt="exterieur">
-            <img src="galerie palaja/piscine.png" alt="piscine">
-            <img src="galerie palaja/piscine 2.png" alt="piscine">
-            <img src="galerie palaja/piscine 3.png" alt="piscine">
-            <img src="galerie palaja/piscine 4.png" alt="piscine">
-            <img src="galerie palaja/piscine nuit.png" alt="piscine">
+            <img src="Galerie/galerie palaja/salon.png" alt="salon" class="active">
+            <img src="Galerie/galerie palaja/table.png" alt="cuisine">
+            <img src="Galerie/galerie palaja/table 2.png" alt="cuisine">
+            <img src="Galerie/galerie palaja/cuisine.png" alt="cuisine">
+            <img src="Galerie/galerie palaja/comptoir.png" alt="cuisine">
+            <img src="Galerie/galerie palaja/entree.png" alt="entrée">
+            <img src="Galerie/galerie palaja/chambre 1.png" alt="chambre">
+            <img src="Galerie/galerie palaja/chambre 2.png" alt="chambre">
+            <img src="Galerie/galerie palaja/chambre 3.png" alt="chambre">
+            <img src="Galerie/galerie palaja/chambre 4.png" alt="chambre">
+            <img src="Galerie/galerie palaja/chambre 5.png" alt="chambre">
+            <img src="Galerie/galerie palaja/chambre canap lit.png" alt="chambre">
+            <img src="Galerie/galerie palaja/sdb.png" alt="salle de bain">
+            <img src="Galerie/galerie palaja/sdb 2.png" alt="salle de bain">
+            <img src="Galerie/galerie palaja/exterieur.png" alt="exterieur">
+            <img src="Galerie/galerie palaja/petit dej.png" alt="exterieur">
+            <img src="Galerie/galerie palaja/table exterieur.png" alt="exterieur">
+            <img src="Galerie/galerie palaja/piscine.png" alt="piscine">
+            <img src="Galerie/galerie palaja/piscine 2.png" alt="piscine">
+            <img src="Galerie/galerie palaja/piscine 3.png" alt="piscine">
+            <img src="Galerie/galerie palaja/piscine 4.png" alt="piscine">
+            <img src="Galerie/galerie palaja/piscine nuit.png" alt="piscine">
           </div>
   
           <div class="slideshow-nav">

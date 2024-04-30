@@ -148,17 +148,17 @@
         <section id="photos" class="section-container">
   
           <div class="slideshow">
-            <img src="galerie le 9/salon.png" alt="salon" class="active">
-            <img src="galerie le 9/ensemble.png" alt="photo d'ensemble">
-            <img src="galerie le 9/table.png" alt="table">
-            <img src="galerie le 9/table 2.png" alt="table 2">
-            <img src="galerie le 9/cuisine.png" alt="cuisine">
-            <img src="galerie le 9/lit.png" alt="chambre 1">
-            <img src="galerie le 9/lit 2.png" alt="chambre 2">
-            <img src="galerie le 9/table de chevet.png" alt="table de chevet">
-            <img src="galerie le 9/mirroir.png" alt="mirroir">
-            <img src="galerie le 9/sdb.png" alt="salle de bain">
-            <img src="galerie le 9/bureau.png" alt="bureau"> 
+            <img src="Galerie/galerie le 9/salon.png" alt="salon" class="active">
+            <img src="Galerie/galerie le 9/ensemble.png" alt="photo d'ensemble">
+            <img src="Galerie/galerie le 9/table.png" alt="table">
+            <img src="Galerie/galerie le 9/table 2.png" alt="table 2">
+            <img src="Galerie/galerie le 9/cuisine.png" alt="cuisine">
+            <img src="Galerie/galerie le 9/lit.png" alt="chambre 1">
+            <img src="Galerie/galerie le 9/lit 2.png" alt="chambre 2">
+            <img src="Galerie/galerie le 9/table de chevet.png" alt="table de chevet">
+            <img src="Galerie/galerie le 9/mirroir.png" alt="mirroir">
+            <img src="Galerie/galerie le 9/sdb.png" alt="salle de bain">
+            <img src="Galerie/galerie le 9/bureau.png" alt="bureau"> 
           </div>
   
           <div class="slideshow-nav">
