@@ -5,8 +5,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Salsa&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Alegreya&display=swap" rel="stylesheet">
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -15,6 +18,20 @@
             padding: 0;
         }
 
+        .boutonRetour {
+        margin-top: 10px; /* Ajustez selon votre préférence */
+        margin-left: 20px; /* Ajustez selon votre préférence */
+        width: 80px; /* Définir la largeur du bouton */
+        border-radius: 15px; /* Bords arrondis */
+        background-color: #feb6b7; /* Couleur de fond */
+        color: #903C3E; /* Couleur du texte */
+        border: none; /* Pas de bordure */
+        font-family: 'Salsa', sans-serif;
+        display: block;
+        text-decoration: none;
+        padding: 10px 20px;
+        text-align: center;    
+    }
 
         h1 {
             margin-left: 790px;
@@ -97,6 +114,9 @@
     <title>Devis personnalisé</title>
 </head>
 <body>
+
+<a href="Services.php" class="boutonRetour">Retour</a>
+
 
 <h1> Devis personnalisé </h1>
 
