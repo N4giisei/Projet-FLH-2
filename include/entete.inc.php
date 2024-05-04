@@ -76,6 +76,7 @@
         <div id="navigation">
             <a href="index.php" class="nav-link">Accueil</a>
             <a href="Hébergement.php" class="nav-link">Hébergements</a>
+            <a href="reservation.php" class="nav-link">Réservation</a>
             <a href="Services.php" class="nav-link">Services</a>
             <a href="Recrutement.php" class="nav-link">Recrutement</a>
             <a href="Contact.php" class="nav-link">Contact</a>
