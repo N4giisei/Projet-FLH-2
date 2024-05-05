@@ -47,7 +47,7 @@
 <body>
     <footer>
         <a href="index.php">Accueil</a>
-        <a href="Le 9.php">Hébergement</a>
+        <a href="Hébergement.php">Hébergement</a>
         <a href="Services.php">Service</a>
         <a href="Recrutement.php">Recrutement</a>
         <a href="Contact.php">Contact</a>

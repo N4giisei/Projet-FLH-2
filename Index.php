@@ -18,6 +18,7 @@
             background-color: #f5f5f5;
             padding: 20px;
             margin: 20px;
+            width: 1760px;
         }
 
         .menu {
@@ -53,7 +54,7 @@
         }
 
         .rectangle {
-            width: 48%;
+            width: 800px;
             background-color: #FF9697; /* Autre couleur */
             border-radius: 10px;
             overflow: hidden;
@@ -131,7 +132,7 @@
                 <div class="texte-rectangle">
                     <h2> Hébergement </h2>
                     <p>Voici les Airbnb que nous proposons </p>
-                    <a href="Isly.php" class="voir-plus">Voir plus</a>
+                    <a href="Hébergement.php" class="voir-plus">Voir plus</a>
                 </div>
             </div>
             <div class="rectangle">

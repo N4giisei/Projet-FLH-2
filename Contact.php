@@ -64,19 +64,18 @@
             font-size: 15px;
         }
 
-        button {
+        input[type="submit"] {
             background-color: #FF9697;
             color: #fff;
             padding: 10px 15px;
             border: none;
             border-radius: 4px;
             cursor: pointer;
-            margin-left: 155px;
             font-family: 'Alegreya', sans-serif; 
             font-size: 15px;
         }
 
-        button:hover {
+        input[type="submit"]:hover {
             background-color: #FF7B7D;
         }
     </style>
@@ -88,7 +87,7 @@
 
 <h1> Contactez nous !! </h1>
 
-    <form>
+<form action="envoi_email.php" method="post">
         <label for="nom">Nom </label>
         <input type="text" id="nom" name="nom" required>
 
@@ -102,9 +101,8 @@
         <label for="message">Message </label>
         <textarea id="message" name="message" rows="4" required></textarea>
 
-        <button type="submit">Envoyer</button>
+        <input type="submit" value="Envoyer">
     </form>
-
 </body>
 </html>
 

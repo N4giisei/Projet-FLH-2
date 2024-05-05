@@ -21,7 +21,7 @@
             display: flex;
             align-items: center;
             margin-bottom: 20px;
-            margin-left: 50px;
+            margin-left: 500px;
             border: 3px solid #FF9697; /* Ajout du contour */
             border-radius: 10px; /* Coins arrondis */
             width: 45%; /* Prend 65% de la largeur de la page */
